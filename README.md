@@ -57,7 +57,7 @@
 <img align="right" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 - 👨‍💻 **Web Developer**\
-📆 2019 - 2020\
+📆 2019 - 2021\
 📍 **<a href="https://3wbr.com.br/" target="_blank">3WBR</a>** - Timoteo/MG, Brazil
 
 </details>
