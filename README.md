@@ -9,7 +9,8 @@
 ## Technology Stack
 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - 
-  <img align="center"  height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> -
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> -
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> -
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
@@ -38,6 +39,19 @@
 
 ## Experience
 
+<br>
+<img align="right" src="https://img.shields.io/badge/Wordpress-22779e?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Mautic-4e5e9e?style=for-the-badge&logo=mautic&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="right" src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/NodeJS-90c53f?style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+
+- 👨‍💻 **Web Developer Intern**\
+📆 2022\
+📍 **<a href="https://www.appmarketing.com.br/" target="_blank">App Marketing</a>** - Timoteo/MG, Brazil
 
 
 <br>
