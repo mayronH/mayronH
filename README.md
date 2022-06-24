@@ -1,8 +1,8 @@
 ## Hi! I'm Mayron
 
 <a href="https://github.com/mayronH">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayronH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayronH&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayronH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayronH&layout=compact&langs_count=8&theme=dark&hide=handlebars,hack,ejs"/>
 
 <div style="display: inline_block">
 
