@@ -22,9 +22,6 @@
 <br>
 <br>
 </div>
-  <p align='left'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=mayronH.visitor-badge&right_color=green"></a>
-  </p>
   
   <details>
   <summary>📃 My Resume</summary>
