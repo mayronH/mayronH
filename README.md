@@ -8,21 +8,20 @@
 
 ## Technology Stack
 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> -
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"> -
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> - 
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> -
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-   
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"> 
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 
- 
+<br>
+<br>
 </div>
-
   <p align='left'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=mayronH.visitor-badge&right_color=green"></a>
   </p>
@@ -38,6 +37,19 @@
 📍 **Catholic University Center of Eastern Minas Gerais** - Coronel Fabriciano, Brazil
 
 ## Experience
+<br>
+<img align="right" src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/NodeJS-90c53f?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Ionic-176bff?style=for-the-badge&logo=ionic&logoColor=white"/>
+
+
+
+- 👨‍💻 **Web Developer**\
+📆 2022\
+📍 **<a href="https://www.appmarketing.com.br/" target="_blank">App Marketing</a>** - Timoteo/MG, Brazil
+
 
 <br>
 <img align="right" src="https://img.shields.io/badge/Wordpress-22779e?style=for-the-badge&logo=wordpress&logoColor=white" />
